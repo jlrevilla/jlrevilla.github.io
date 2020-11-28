@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Activity Monitor"
-date:   2020-11-27 22:36:36 -0500
+date:   2020-11-26 22:36:36 -0500
 categories: personal
 ---
 La primera vez que escuché a Andy Puddicombe fue en una charla de TED hace años. Me pareció muy interesante en ese momento pero, como simpre pasa cuando nos abruma el día a día, pronto olvidé de todo su mensaje.

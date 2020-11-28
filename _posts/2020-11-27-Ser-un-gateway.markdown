@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ser un gateway"
-date:   2020-11-28 10:36:36 -0500
+date:   2020-11-27 10:36:36 -0500
 categories: personal
 ---
 En el mundo del networking, un gateway es un dispositivo que sirve de interfaz entre redes que usan diferentes protocolos de comunicación, una especie de traductor simultáneo. Si no fuera por ellos, sería imposible la Internet como la conocemos.
