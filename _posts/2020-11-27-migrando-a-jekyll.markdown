@@ -2,6 +2,7 @@
 layout: post
 title:  "Migrando a Jekyll"
 date:   2020-11-27 20:36:36 -0500
+post.excerpt | strip_html
 categories: meta
 ---
 *People might look at you a bit funny, but it’s okay. Artists are allowed to be a bit different.*
