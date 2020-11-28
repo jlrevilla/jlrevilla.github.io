@@ -2,7 +2,7 @@
 layout: post
 title:  "Migrando a Jekyll"
 date:   2020-11-27 20:36:36 -0500
-post.excerpt | strip_html
+post.excerpt: Después de varios años abandonado en Wordpress, decidí desfibrilar a mi blog, solo que esta vez aprovechando la estructura y facilidad de Github Pages. Además enfocado nuevamente en texto y no en fotografías. Y es que lo importante son las buenas historias, una imagen no vale más que mil palabras.
 categories: meta
 ---
 *People might look at you a bit funny, but it’s okay. Artists are allowed to be a bit different.*
