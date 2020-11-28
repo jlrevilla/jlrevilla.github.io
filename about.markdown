@@ -8,7 +8,7 @@ Dragón de Fuego de nacimiento, JL llegó al mundo en el año en que la primera 
 
 Gen X, Geek y padre al mismo tiempo.
 
-Jekyll está disponible en GitHub:
+Este blog está hecho con Jekyll, disponible en GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
