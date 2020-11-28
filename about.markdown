@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Dragón de Fuego de nacimiento, JL llegó al mundo en el año en que la primera súper computadora Cray-1 salía al mercado, Apple Computer era fundada, la sonda Viking 1 llegaba a Marte y el Concorde iniciaba vuelos comerciales. Como es obvio, no ha dejado de emocionarse por la ciencia y tecnología desde entonces.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Gen X, Geek y padre al mismo tiempo.
 
-You can find the source code for Jekyll at GitHub:
+Jekyll está disponible en GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
