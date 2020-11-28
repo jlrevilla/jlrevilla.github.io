@@ -6,6 +6,8 @@ categories: personal
 ---
 En el mundo del networking, un gateway es un dispositivo que sirve de interfaz entre redes que usan diferentes protocolos de comunicación, una especie de traductor simultáneo. Si no fuera por ellos, sería imposible la Internet como la conocemos.
 
+![Coffee Pots](/img/IMG_0375.jpeg)
+
 Pues bien, en toda empresa existen grupos, tribus diferentes que hablan idiomas distintos. Los de ventas y los de soporte. Los de contabilidad y los de marketing. 
 
 A veces hasta parece que tuvieran metas opuestas. Unos quieren tener el almacén de repuestos más grande posible para solucionar la mayoría de casos en poco tiempo, los otros quieren tener el almacén más pequeño posible para ahorrar costos. Unos quieren que los procesos sean ágiles y no se pierda tiempo, los otros quieren que los procesos sean lentos y seguros para no cometer errores que puedan comprometer a la empresa legal o económicamente. Unos quieren el producto más vendible y los otros el más eficiente.

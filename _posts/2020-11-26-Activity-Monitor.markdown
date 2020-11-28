@@ -10,6 +10,8 @@ Lo volví a descubrir a inicios de la pandemia global cuando Bill Gates recomend
 
 Leí su libro, me pareció espectacular, y ahora escucho su podcast todos los días. Creo que Andy explica muy bien el valor de la meditación así como la mejor manera de empezar a practicarla. Para mí, como geek, la forma de visualizar su método toma un matiz diferente.
 
+![Two Colors](/img/IMG_0045.jpeg)
+
 Meditar para mí es como activar el Task Manager de Windows (o Activity Monitor si usan Mac). La idea es abstraerse de los pensamientos o procesos del cerebro y observarlos desde la distancia. Es increíble notar como algunos están consumiendo todos los recursos… y luego ver como van apagándose y el ventilador del CPU empieza a bajar la velocidad hasta que puede dejar de soplar aire. Retomar el control y llegar a un estado de funcionamiento ideal.
 
 Si aún no han probado la metitación y el mindfulness, denle una oportunidad a Headspace.
