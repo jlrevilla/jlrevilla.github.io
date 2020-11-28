@@ -8,7 +8,7 @@ categories: meta
 
 \- Bob Ross
 
-![Coffee Pots](/assets/20190819_044420805_iOS.jpg)
+![Coffee Pots](assets/images/20200111_015003846_iOS.jpg)
 
 Después de varios años abandonado en Wordpress, decidí desfibrilar a mi blog, solo que esta vez aprovechando la estructura y facilidad de Github Pages. Además enfocado nuevamente en texto y no en fotografías. Y es que lo importante son las buenas historias, una imagen no vale más que mil palabras.
 
