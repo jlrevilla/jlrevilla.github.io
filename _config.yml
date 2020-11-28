@@ -52,4 +52,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 permalink: /:categories/:year/:month/:day/:title/
-excerpt_separator: "<!--more-->" 
+excerpt_separator: <!--more-->
