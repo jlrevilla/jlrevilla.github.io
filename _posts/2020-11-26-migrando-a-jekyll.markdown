@@ -8,8 +8,6 @@ categories: meta
 
 \- Bob Ross
 
-![Coffe Pots](_site/assets/20200111_015003846_iOS.jpg "Coffee Pots")
-
 Después de varios años abandonado en Wordpress, decidí desfibrilar a mi blog, solo que esta vez aprovechando la estructura y facilidad de Github Pages. Además enfocado nuevamente en texto y no en fotografías. Y es que lo importante son las buenas historias, una imagen no vale más que mil palabras.
 
 Sí, puede parecer cínico, pero es la verdad. El mundo compra historias, sean reales o no. Tal vez hace mucho tiempo las personas consumían los productos que se ajustaban a su estilo de vida, pero hoy usan los productos del estilo de vida que quisieran tener. Y en ocasiones hasta cambian sus costumbres para encajar con esos productos.
