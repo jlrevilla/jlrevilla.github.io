@@ -6,8 +6,8 @@ categories: tech
 ---
 Hoy estaba leyendo la noticia sobre Jack Dorsey [vendiendo su primer tweet como NFT](https://www.cnet.com/news/twitter-ceo-jack-dorsey-is-selling-his-first-tweet-ever-as-an-nft/) y eso me trajo dos cosas a la cabeza:
 
-1. ¿Los NFT son algo diametralmente opuesto a un mundo abierto? ¿O son el futuro? Tema para otro post.
-2. ¿Twitter ya tiene 15 años? Wow.
+1. ¿Los NFT son algo diametralmente opuesto a un mundo abierto? ¿O son el futuro? Tema para otro post, pero normalmente el crear una escasez artificial no genera valor.
+2. ¿Twitter ya tiene 15 años? Wow. Cómo ha cambiado.
 
 Recuerdo que fui uno de los primeros usuarios de Twitter, por lo que he podido ver cómo ha evolucionado (para bien y para mal) en todo este tiempo. Ya en mi post anterior mencioné la manera en la que he cambiado mi relación con las redes sociales, así que deben saber que mi uso de Twitter es muy esporádico. 
 
