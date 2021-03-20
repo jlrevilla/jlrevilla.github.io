@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Snobs y conspiraciones"
+date:   2021-3-20 10:22:36 -0500
+categories: meta
+---
+Hoy en día es una definición aceptada de snob: *one who has an offensive air of superiority in matters of knowledge or taste*. Si bien es un término peyorativo, la verdad es que todos nosotros regularmente solemos ser snobs en un tema u otro. Están los que se identifican como conocedores en temas de café, vinos o comida (y ven a las otras personas que sí, disfrutan del café, pero realmente no *saben* lo que es un buen café) con una mezcla de superioridad y lástima. También los que *realmente* saben de autos, ropa o arte... cada persona tiene esa área de experiencia en la que se considera mejor que otros porque pertenece al selecto grupo de los que entienden realmente de qué se trata la cosa.
+
+Pasa en tecnología también, no por algo el marketing de empresas como Apple fue por años "Think different" y ese es un posicionamiento que mantienen hasta ahora, cuando miles de personas les compran productos exclusivos y diferentes para luego solamente usar Chrome para ver Facebook todo el día como todo el mundo. Pero en la laptop de los que saben, eh, no confundir.
+
+Pero recientemente me puse a pensar que existen rutas al snobismo que no dependen necesariamente de consumir productos, sino ideas. En efecto, el *yo sé cómo realmente funciona el mundo* es, tal vez, la forma más accesible que puede existir de sentirse especial o superior... y es por eso, quizá, que tantas personas caen fácilmente en teorías de conspiración: No porque sean más lógicas (para nada) o factibles (difícilmente), sino porque les permiten sentirse superiores de una manera que no requiere ser un millonario con acceso a botellas de vino de miles de dólares. Tú crees que sabes cómo funciona el mundo, pero pobre oveja, yo soy el que realmente entiende las cosas que están fuera de la vista de las masas. Todo es realmente una simulación, nos quieren controlar con chips en las vacunas, los billonarios del mundo están detras de todo, los reptiles han infiltrado a nuestras clases políticas, los nazis siguen jalando los hilos desde su base secreta en la Antártica.
+
+Tal vez para entender un poco mejor cómo luchar contra los fake news y evitar que las personas sean manipuladas con ideas por fines políticos, sea necesario primero entender por qué es fácil convencer a una persona que existe realmente una diferencia entre una botella de vino de 20 dólares y una de 2,000 dólares.
