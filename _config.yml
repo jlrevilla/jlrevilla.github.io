@@ -21,10 +21,9 @@
 title: Metaverso de JL
 email: jl@revilla.pe
 description: >- # this means to ignore newlines until "baseurl:"
-  JL Revilla | Gen X | Whovian | Browncoat
+  Gen X | Whovian | Browncoat
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "revilla.pe" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: TelaBavarois
 github_username:  jlrevilla
 
 # Build settings

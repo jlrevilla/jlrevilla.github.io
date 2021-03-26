@@ -8,8 +8,6 @@ Dragón de Fuego de nacimiento, JL llegó al mundo en el año en que la primera 
 
 Su primera computadora fue una Commodore 64 con un modem de 1200 baudios, gracias a la cual descubrió los BBS y los videojuegos. A los 12 años vendió todos sus G.I. Joe para comprarse su primera PC 286. La PC fue obsoleta en dos años... y los G.I. Joe los sigue extrañando.
 
-Gen X - Whovian - Browncoat
-
 También me pueden encontrar en [Mastodon](https://mastodon.social/@jlrevilla) y [Pixelfed](https://pixelfed.social/jlrevilla)
 
 Este blog está hecho con Jekyll, disponible en GitHub:
